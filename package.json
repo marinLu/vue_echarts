@@ -2,7 +2,6 @@
   "name": "oops",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "yanlee26 <franklyan24@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
